@@ -14,7 +14,7 @@ releases:
     releaseDate: 2025-10-28
     eol: false
     link: https://www.truenas.com/blog/truenas-goldeye-25-10/
-    latest: "25.10.1"
+    latest: "25.10.3"
     latestReleaseDate: 2025-12-18
 
   - releaseCycle: "25.04"
