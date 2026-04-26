@@ -13,7 +13,7 @@ releases:
     codename: "Goldeye"
     releaseDate: 2025-10-28
     eol: false
-    link: https://www.truenas.com/blog/truenas-goldeye-25-10/
+    link: https://www.truenas.com/docs/scale/25.10/gettingstarted/versionnotes/
     latest: "25.10.3"
     latestReleaseDate: 2025-12-18
 
@@ -21,7 +21,7 @@ releases:
     codename: "Fangtooth"
     releaseDate: 2025-04-15
     eol: false
-    link: https://www.truenas.com/blog/truenas-fangtooth-25-04/
+    link: https://www.truenas.com/docs/scale/25.04/gettingstarted/scalereleasenotes/
     latest: "25.04.2.6"
     latestReleaseDate: 2025-10-30
 
@@ -29,7 +29,7 @@ releases:
     codename: "Electric Eel"
     releaseDate: 2024-10-29
     eol: false
-    link: https://www.truenas.com/blog/truenas-electric-eel-powers-up-your-storage/
+    link: https://www.truenas.com/docs/scale/24.10/gettingstarted/scalereleasenotes/
     latest: "24.10.2.4"
     latestReleaseDate: 2025-08-07
 
