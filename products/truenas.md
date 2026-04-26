@@ -35,6 +35,7 @@ releases:
 
   - releaseCycle: "24.04"
     codename: "Dragonfish"
+    releaseDate: 2024-04-23
     eol: true
     link: https://www.truenas.com/docs/scale/24.04/gettingstarted/scalereleasenotes/
     latest: "24.04.2.5"
@@ -42,6 +43,7 @@ releases:
   
   - releaseCycle: "23.10"
     codename: "Cobia"
+    releaseDate: 2023-10-24
     eol: true
     link: https://www.truenas.com/docs/scale/23.10/gettingstarted/scalereleasenotes/
     latest: "23.10.2"
