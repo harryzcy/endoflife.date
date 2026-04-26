@@ -19,14 +19,14 @@ releases:
   - releaseCycle: "25.08"
     releaseDate: 2025-09-01
     eol: 2027-09-01
-    latest: "25.08.7"
-    latestReleaseDate: 2026-01-21
+    latest: "25.08.9"
+    latestReleaseDate: 2026-04-16
 
   - releaseCycle: "24.08"
     releaseDate: 2024-09-08
     eol: 2026-09-08
-    latest: "24.08.29"
-    latestReleaseDate: 2026-01-22
+    latest: "24.08.30"
+    latestReleaseDate: 2026-03-24
 
   - releaseCycle: "23.08"
     releaseDate: 2023-09-06
@@ -39,6 +39,7 @@ releases:
     eol: 2024-09-01
     latest: "22.08.28"
     latestReleaseDate: 2025-09-08
+    link: https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/merge_requests/28230
 
   - releaseCycle: "21.08"
     releaseDate: 2021-09-04

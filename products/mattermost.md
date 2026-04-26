@@ -30,17 +30,29 @@ identifiers:
 
 # releaseDate and eol see: https://docs.mattermost.com/about/mattermost-server-releases.html
 releases:
+  - releaseCycle: "11.6"
+    releaseDate: 2026-04-16
+    eol: 2026-07-15
+    latest: "11.6.1"
+    latestReleaseDate: 2026-04-21
+
+  - releaseCycle: "11.5"
+    releaseDate: 2026-03-16
+    eol: 2026-06-15
+    latest: "11.5.4"
+    latestReleaseDate: 2026-04-22
+
   - releaseCycle: "11.4"
     releaseDate: 2026-02-16
     eol: 2026-05-15
-    latest: "11.4.2"
-    latestReleaseDate: 2026-02-26
+    latest: "11.4.5"
+    latestReleaseDate: 2026-04-22
 
   - releaseCycle: "11.3"
     releaseDate: 2026-01-16
     eol: 2026-04-15
-    latest: "11.3.2"
-    latestReleaseDate: 2026-02-23
+    latest: "11.3.3"
+    latestReleaseDate: 2026-03-16
 
   - releaseCycle: "11.2"
     releaseDate: 2025-12-16
@@ -69,8 +81,8 @@ releases:
   - releaseCycle: "10.11"
     releaseDate: 2025-08-15
     eol: 2026-08-15
-    latest: "10.11.12"
-    latestReleaseDate: 2026-02-20
+    latest: "10.11.15"
+    latestReleaseDate: 2026-04-22
 
   - releaseCycle: "10.10"
     releaseDate: 2025-07-16
