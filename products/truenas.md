@@ -33,6 +33,20 @@ releases:
     latest: "24.10.2.4"
     latestReleaseDate: 2025-08-07
 
+  - releaseCycle: "24.04"
+    codename: "Dragonfish"
+    eol: true
+    link: https://www.truenas.com/docs/scale/24.04/gettingstarted/scalereleasenotes/
+    latest: "24.04.2.5"
+    latestReleaseDate: 2024-11-08
+  
+  - releaseCycle: "23.10"
+    codename: "Cobia"
+    eol: true
+    link: https://www.truenas.com/docs/scale/23.10/gettingstarted/scalereleasenotes/
+    latest: "23.10.2"
+    latestReleaseDate: 2024-02-22
+
 ---
 > [TrueNAS](https://www.truenas.com/) is a family of enterprise network-attached storage (NAS)
 > products developed by iXsystems Inc. based on Debian. TrueNAS is released in two editions: 
